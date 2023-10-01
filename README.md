@@ -6,7 +6,7 @@
 
 `CREATE DATABASE database_name;`
 
-`createdb database_name` // the terminal
+`createdb database_name` 
 
 
 ## ways to connect to a database
