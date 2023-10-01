@@ -2,12 +2,14 @@
 
 `CREATE EXTENSION`
 
-**creating a new database**
+## creating a new database**
 
 `CREATE DATABASE database_name;`
-`createdb database_name`
 
-ways to connect to a database
+`createdb database_name` // the terminal
+
+
+## ways to connect to a database
 
 1. `psql -h localhost -p 5432 -U teyenike database_name`
 1. `\c database_name;`
