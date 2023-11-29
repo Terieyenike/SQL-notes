@@ -81,6 +81,9 @@ These are pieces of software that allow you to expand what postgres can do or ex
 **see just table**
 `\dt`
 
+**show all databases**
+`\l`
+
 ## Insert data into a table
 
 ```sql
