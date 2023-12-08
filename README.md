@@ -286,6 +286,13 @@ WHERE id = 2007
   TO '/Users/teyenike/Documents/result.csv' DELIMITER ',' CSV HEADER
 ```
 
+```sql
+COPY capitals (id, country, capital)
+FROM '/Users/oterieyenike/Downloads/capitals.csv'
+DELIMITER ','
+CSV HEADER;
+```
+
 ## INSTALL EXTENSION IN POSTGRES
 
 ```sql
