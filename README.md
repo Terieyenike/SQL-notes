@@ -584,6 +584,11 @@ first method: CAST(Salary AS text)
 second method: salary::text
 ```
 
+```sql
+select * from customers
+where CAST(zip as TEXT) LIKE '%2%'
+```
+
 **Random**
 
 ```sql
