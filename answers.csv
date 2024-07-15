@@ -1,0 +1,17 @@
+answer_text,is_correct,xata_id,xata_createdat,xata_updatedat,question,xata_version
+4,true,rec_cp4kctg1soeou7k8hg70,2024-05-19T00:23:18.985199Z,2024-05-19T00:23:18.985199Z,rec_cp4kba01soeou7k8hg6g,0
+3,false,rec_cp4kd33duqpd9e21egm0,2024-05-19T00:23:40.640505Z,2024-05-19T00:23:40.640505Z,rec_cp4kba01soeou7k8hg6g,0
+6,false,rec_cp4kd7o1soeou7k8hg7g,2024-05-19T00:23:59.608046Z,2024-07-08T22:45:00.281446Z,rec_cp4kba01soeou7k8hg6g,1
+5,false,rec_cp4kdgbduqpd9e21egmg,2024-05-19T00:24:33.599322Z,2024-06-23T23:49:31.10772Z,rec_cp4kba01soeou7k8hg6g,2
+7,false,rec_cp4kdqo1soeou7k8hg8g,2024-05-19T00:25:15.130845Z,2024-06-23T23:49:49.46486Z,rec_cp4kdmg1soeou7k8hg80,1
+5,false,rec_cp4kdu01soeou7k8hg90,2024-05-19T00:25:28.873524Z,2024-06-23T23:49:51.320688Z,rec_cp4kdmg1soeou7k8hg80,1
+6,true,rec_cp4ke181soeou7k8hg9g,2024-05-19T00:25:41.950508Z,2024-05-19T00:25:41.950508Z,rec_cp4kdmg1soeou7k8hg80,0
+12,false,rec_cp4ke901soeou7k8hga0,2024-05-19T00:26:12.237705Z,2024-05-19T00:26:12.237705Z,rec_cp4kdmg1soeou7k8hg80,0
+e,false,rec_cp4keo81soeou7k8hgb0,2024-05-19T00:27:13.801655Z,2024-05-19T00:27:13.801655Z,rec_cp4keeg1soeou7k8hgag,0
+a,true,rec_cp4kes01soeou7k8hgbg,2024-05-19T00:27:28.940813Z,2024-05-19T00:27:28.940813Z,rec_cp4keeg1soeou7k8hgag,0
+i,false,rec_cp4kev01soeou7k8hgc0,2024-05-19T00:27:40.701619Z,2024-05-19T00:27:40.701619Z,rec_cp4keeg1soeou7k8hgag,0
+u,false,rec_cp4kf181soeou7k8hgcg,2024-05-19T00:27:49.965561Z,2024-05-19T00:27:49.965561Z,rec_cp4keeg1soeou7k8hgag,0
+54,true,rec_cp4kgb3duqpd9e21egn0,2024-05-19T00:30:36.599672Z,2024-05-19T00:30:36.599672Z,rec_cp4kg701soeou7k8hgd0,0
+52,false,rec_cp4kgdrduqpd9e21egng,2024-05-19T00:30:47.986826Z,2024-07-08T20:51:24.408234Z,rec_cp4kg701soeou7k8hgd0,1
+55,false,rec_cp4kgi3duqpd9e21ego0,2024-05-19T00:31:04.521718Z,2024-05-19T00:31:04.521718Z,rec_cp4kg701soeou7k8hgd0,0
+53,false,rec_cp4kglbduqpd9e21egog,2024-05-19T00:31:17.215196Z,2024-05-19T00:31:17.215196Z,rec_cp4kg701soeou7k8hgd0,0
