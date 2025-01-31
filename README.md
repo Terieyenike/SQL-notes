@@ -287,6 +287,16 @@ WHERE id = 2007
 ```
 
 ```sql
+/*
+copy all the data from the employees
+table into a csv file
+*/
+COPY (SELECT *
+  FROM employees)
+  TO '/Users/oterieyenike/Downloads/result.csv' DELIMITER ',' CSV HEADER
+```
+
+```sql
 COPY capitals (id, country, capital)
 FROM '/Users/oterieyenike/Downloads/capitals.csv'
 DELIMITER ','
